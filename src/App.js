@@ -1,6 +1,7 @@
+"use client"
 import logo from "./logo.svg";
 import "./App.css";
-import { createID, test, foodrecipe, TodaysDate } from "reuseable-component";
+import { createID, foodrecipe } from "reuseable-component";
 import { Button } from "template-react-component-library";
 
 function App() {
